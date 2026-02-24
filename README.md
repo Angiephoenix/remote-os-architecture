@@ -68,7 +68,7 @@ Remote-OS-Architecture/
 ## What This System Covers
 
 ### Decision Visibility
-Every meaningful decision is logged with context, rationale, owner, reversibility classification, and a scheduled review date. Decisions are classified as Strategic, Operational, or Tactical, with routing rules for each. The decision log is the foundational layer — every workflow, metric, and automation prototype links back to it.
+Every meaningful decision is logged with context, rationale, owner, reversibility classification, and a scheduled review date. Decisions are classified as Strategic, Operational, or Tactical, with routing rules for each. The decision log is the foundational layer; every workflow, metric, and automation prototype links back to it.
 
 ### Information Architecture
 A single-source-of-truth model assigns every domain exactly one canonical location. A content lifecycle (Draft → Active → Archived → Retired) prevents documentation debt by making freshness a structural property, not a cultural aspiration.
@@ -77,7 +77,7 @@ A single-source-of-truth model assigns every domain exactly one canonical locati
 Three fully documented cross-tool workflows cover Slack → Linear → Notion → AI handoffs. Each workflow specifies its trigger, inputs, outputs, decision logging point, automation level, failure modes, and human override mechanism.
 
 ### People Metrics and Operational Health
-Metrics are defined with privacy classifications (Public, Internal, Restricted), Goodhart risk assessments, and narrative context requirements. The system measures what matters — decision velocity, strategic alignment, team sustainability — without enabling surveillance.
+Metrics are defined with privacy classifications (Public, Internal, Restricted), Goodhart risk assessments, and narrative context requirements. The system measures what matters; decision velocity, strategic alignment, team sustainability - without enabling surveillance.
 
 ### Tooling Governance
 A tool registry tracks every tool's purpose, owner, lifecycle stage (Adopt → Maintain → Replace → Retire), and source-of-truth responsibility. Adoption and sunset criteria prevent tool sprawl.
@@ -86,7 +86,7 @@ A tool registry tracks every tool's purpose, owner, lifecycle stage (Adopt → M
 Three automation prototypes are designed with a four-stage maturity model (Manual → Assisted → Semi-Automated → Automated). No prototype advances without a completed pilot, documented feedback, explicit approval, and updated failure modes. Every AI output requires human review before becoming a decision.
 
 ### Rollout Plan
-A three-phase, 60-day pilot plan with measurable success criteria, identified failure modes, and explicit sunset conditions. If the system does not prove its value, it gets retired — not defended.
+A three-phase, 60-day pilot plan with measurable success criteria, identified failure modes, and explicit sunset conditions. If the system does not prove its value, it gets retired - not defended.
 
 ---
 
@@ -110,7 +110,7 @@ A companion automation pipeline transforms ephemeral Slack signals into structur
 4. **Persists** the decision into the Notion Decision Log as a draft with full metadata.
 5. **Logs** the automation activity to a separate Audit Log for traceability.
 
-The pipeline is designed with idempotent persistence — the same Slack message processed twice produces the same result, not a duplicate entry.
+The pipeline is designed with idempotent persistence - the same Slack message processed twice produces the same result, not a duplicate entry.
 
 ---
 
@@ -153,7 +153,7 @@ This system is designed for operations leaders, chiefs of staff, and systems-min
 
 ## About the Author
 
-Built by [Angela Obiesie](https://linkedin.com/in/angelaobiesie) — a technical operations specialist focused on information architecture, workflow automation, and building realistic systems for distributed teams.
+Built by [Angie.O](https://linkedin.com/in/angelaobiesie) - a technical operations specialist focused on information architecture, workflow automation, and building realistic systems for distributed teams.
 
 ---
 
