@@ -17,8 +17,8 @@ This project addresses a deceptively simple question:
 This is not a theoretical framework. It is a structured, working system designed to be readable, extensible, and auditable. Every component was built with three constraints in mind:
 
 1. **Adoptable within 30–60 days** by a small cross-functional team.
-2. **Async-first** — every artifact is designed to be consumed without a meeting.
-3. **Governance over chaos** — automation is introduced with human override at every stage.
+2. **Async-first** - every artifact is designed to be consumed without a meeting.
+3. **Governance over chaos** - automation is introduced with human override at every stage.
 
 ---
 
