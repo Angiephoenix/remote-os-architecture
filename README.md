@@ -153,7 +153,7 @@ This system is designed for operations leaders, chiefs of staff, and systems-min
 
 ## About the Author
 
-Built by [Angie.O](https://linkedin.com/in/angelaobiesie) - a technical operations specialist focused on information architecture, workflow automation, and building realistic systems for distributed teams.
+Built by Angie.O - a technical operations specialist focused on information architecture, workflow automation, and building realistic systems for distributed teams.
 
 ---
 
