@@ -124,7 +124,7 @@ The system is built on seven operating principles:
 | Decisions are artifacts | A decision does not exist until it is findable |
 | Automate mechanics, protect judgment | Repeatable tasks get automated; nuanced calls stay human |
 | Single source of truth | Every domain has exactly one canonical location |
-| Documentation has a lifecycle | Content is created, maintained, and retired — never abandoned |
+| Documentation has a lifecycle | Content is created, maintained, and retired - never abandoned |
 | Metrics guide, not punish | Measurement informs narrative; it does not replace it |
 | Ship small, learn fast | Pilot before scaling; sunset what does not prove value |
 
